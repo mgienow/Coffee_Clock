@@ -1,0 +1,36 @@
+
+
+body {
+  background-image: url("https://cdn.glitch.com/35faf147-14f9-40f3-b778-34177119862f%2FcoffeeSpectrum.jpg?1510230072429");
+  background-position: left top;
+  display: flex;
+  align-items: center;
+
+}
+
+#verbiage {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 30em;
+  margin: 5em;
+}
+
+#java{
+  color: pink;
+  font-size: 4em;
+  width: 60%;
+  text-align: center;
+}
+#salutations{
+  color: #fff;
+  font-size: 3em;
+}
+
+#clock{
+  font-size: 8em;
+  font-family: 'Merriweather', Arial, sans-serif;
+  color: #47291B;
+}
