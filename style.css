@@ -5,6 +5,7 @@ body {
   background-position: left top;
   display: flex;
   align-items: center;
+  font-family: 'Special Elite';
 
 }
 
@@ -27,10 +28,11 @@ body {
 #salutations{
   color: #fff;
   font-size: 3em;
+  margin-top: 1em;
 }
 
 #clock{
-  font-size: 8em;
+  font-size: 7em;
   font-family: 'Merriweather', Arial, sans-serif;
   color: #47291B;
 }
